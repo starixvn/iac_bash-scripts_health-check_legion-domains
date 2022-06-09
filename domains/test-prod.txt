@@ -1,5 +1,6 @@
 pa.amazzu.com
 bt.amazzu.com
+static.amazzu.com
 affadmin.aoncash.bpadmin999.com
 affadmin.athena000.bpadmin999.com
 affadmin.itc303.bpadmin999.com
